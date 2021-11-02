@@ -1,6 +1,8 @@
-# Calculator
+# Frontend Mentor - Calculator app
 
-Simple calculator with themes.
+Simple calculator with themes.<br/>
+
+[Frontend Mentor](https://www.frontendmentor.io) challenge.
 
 ## Technologies used
 
